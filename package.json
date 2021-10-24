@@ -1,0 +1,25 @@
+{
+  "name": "api.gg",
+  "version": "0.1.0",
+  "description": "A Branch API module for creating branch bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "bot",
+    "branch"
+  ],
+  "author": "deadtheamazing",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "playwright": "^1.15.2"
+  }
+}
