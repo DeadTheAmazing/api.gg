@@ -23,6 +23,10 @@ var client = new branch.User(token);
 })()
 ```
 
+## Warning
+Usage of this program breaks [Branch TOS](https://www.branch.gg/privacy)
+Following with that production and work on this repo might be delayed with current circumstances. 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
