@@ -1,3 +1,7 @@
+# IMPORTANT
+
+Branch is literally dying. Going downhill fast. I will NOT be pushing updates. I was offered to work on this legit under branch but with current news I don't think this will be happening nor will I work on this repo either. I'm sorry for this update and have a good rest of your day. 
+
 # api.gg
 
 api.gg is an API designed to work with the [Branch.GG](https://branch.gg/) api and allows for ease of use when making requests and posts!
