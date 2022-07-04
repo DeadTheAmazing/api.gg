@@ -1,6 +1,8 @@
 # IMPORTANT
 
-Branch is literally dying. Going downhill fast. I will NOT be pushing updates. I was offered to work on this legit under branch but with current news I don't think this will be happening nor will I work on this repo either. I'm sorry for this update and have a good rest of your day. 
+Branch is dead? At least the game that this api was going to be built for. Branch as a company is still around and are working on a new game called castaways. although old branch (again the game this api is made for) is still playable but its yk dead.
+
+~~Branch is literally dying. Going downhill fast. I will NOT be pushing updates. I was offered to work on this legit under branch but with current news I don't think this will be happening nor will I work on this repo either. I'm sorry for this update and have a good rest of your day.~~
 
 # api.gg
 
